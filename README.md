@@ -1,3 +1,3 @@
 # Weather Forecast Project
 
-<img src="forecastimage.png" width="718" height="459">  
+<img src="fulldisplay.png" width="727" height="597">  
